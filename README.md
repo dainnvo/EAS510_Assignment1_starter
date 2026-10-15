@@ -57,7 +57,7 @@ python3 test_system.py --modified --random --output results_v1.txt
 python3 test_system.py --hard --output results_v1_hard.txt
 
 # Phase 2 (everything) -> results_v2.txt
-python3 test_system.py --modified --hard --random --output results_v2.txt
+python3 test_system.py --modified --hard --random --rules-v2 --output results_v2.txt
 
 # Validate any results file against the required format:
 python3 scripts/check_output_format.py results_v1.txt
@@ -85,3 +85,35 @@ restart never touches GitHub.
 ## License
 
 Apache 2.0. See `LICENSE`.
+
+## Observed weakness in V1: what failed and why
+
+V1 rejected all 10 resize cases (v3) and all 10 crop-and-resize cases (v6).
+For example, `original_00__resize_scale114__compress__q45__v3.jpg` scored
+26/100, and `original_00__crop_keep60__resized__q45__v6.jpg` scored 23/100.
+Resizing changed the scale of the image content, so the single-scale template
+rule failed. Metadata also lost its supporting template evidence, leaving
+histogram points alone below the matching threshold.
+
+## Design decision for V2: what Rule 4 is and why you chose it
+
+Rule 4 tries template matching at several sizes in both directions to handle
+enlarged and reduced content. Scale-search matches require correlation of at
+least 0.85 and some color agreement to reduce accidental matches. Strong
+same-scale matches pass directly. The weights are 15/15/20/50, keeping the
+total at 100 while allowing Rule 4 to rescue a match when the older rules fail.
+
+## Effect of the change: accuracy before/after on easy vs hard
+
+Easy accuracy stayed at 60/60 (100%). Hard accuracy rose from 31/60 (51.7%)
+to 51/60 (85%), recovering all 20 resize-related failures. The two examples
+above became correct matches at 63/100 and 62/100. All 15 unrelated images
+were rejected at 0/100 in both versions.
+
+## Trade-offs: what new costs or risks did Rule 4 introduce
+
+Searching several sizes takes more time and creates more opportunities for
+accidental matches. The initial search falsely accepted two unrelated images;
+the color check removed those errors on this dataset. That check could also
+reject genuine matches with large color changes and resizing. V2 still misses
+nine rotated images, and its improvement is measured only on the supplied data.

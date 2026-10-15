@@ -1,0 +1,944 @@
+Processing: modified_00_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.97; dimensions 3531x2433 vs 3531x2433; template confirmed -> 15/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.884 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.991 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.991; no scale search needed -> 50/50 points
+Final Score: 99/100 -> MATCH to original_00
+
+Processing: modified_00_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.34; dimensions 3531x2433 vs 3531x2433; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.997 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_00
+
+Processing: modified_00_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.08; dimensions 882x608 vs 3531x2433; template confirmed -> 10/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.364 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.988 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.988; no scale search needed -> 50/50 points
+Final Score: 80/100 -> MATCH to original_00
+
+Processing: modified_00_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.30; dimensions 1765x1216 vs 3531x2433; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.727 -> 11/15 points
+Rule 3 (Template): FIRED - Match score 0.997 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.997; no scale search needed -> 50/50 points
+Final Score: 93/100 -> MATCH to original_00
+
+Processing: modified_00_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.64; dimensions 2648x1824 vs 3531x2433; template confirmed -> 13/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.842 -> 12/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_00
+
+Processing: modified_00_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.14; dimensions 3531x2433 vs 3531x2433; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_00
+
+Processing: modified_01_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.96; dimensions 4000x6000 vs 4000x6000; template confirmed -> 15/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.285 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.998 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.998; no scale search needed -> 50/50 points
+Final Score: 85/100 -> MATCH to original_01
+
+Processing: modified_01_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.36; dimensions 4000x6000 vs 4000x6000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.992 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_01
+
+Processing: modified_01_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.13; dimensions 1000x1500 vs 4000x6000; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.859 -> 13/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 93/100 -> MATCH to original_01
+
+Processing: modified_01_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.35; dimensions 2000x3000 vs 4000x6000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.991 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.982 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.982; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_01
+
+Processing: modified_01_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.72; dimensions 3000x4500 vs 4000x6000; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.996 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.985 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.985; no scale search needed -> 50/50 points
+Final Score: 99/100 -> MATCH to original_01
+
+Processing: modified_01_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.12; dimensions 4000x6000 vs 4000x6000; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_01
+
+Processing: modified_02_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.99; dimensions 4672x7008 vs 4672x7008; template confirmed -> 15/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.844 -> 12/15 points
+Rule 3 (Template): FIRED - Match score 0.989 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.989; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_02
+
+Processing: modified_02_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.41; dimensions 4672x7008 vs 4672x7008; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.999 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_02
+
+Processing: modified_02_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.06; dimensions 1168x1752 vs 4672x7008; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.893 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_02
+
+Processing: modified_02_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.22; dimensions 2336x3504 vs 4672x7008; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.955 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.975 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.975; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_02
+
+Processing: modified_02_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.58; dimensions 3504x5256 vs 4672x7008; template confirmed -> 13/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.985 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.982 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.982; no scale search needed -> 50/50 points
+Final Score: 98/100 -> MATCH to original_02
+
+Processing: modified_02_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.15; dimensions 4672x7008 vs 4672x7008; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_02
+
+Processing: modified_03_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.95; dimensions 3283x4596 vs 3283x4596; template confirmed -> 15/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.967 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 99/100 -> MATCH to original_03
+
+Processing: modified_03_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.30; dimensions 3283x4596 vs 3283x4596; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.999 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_03
+
+Processing: modified_03_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.07; dimensions 820x1149 vs 3283x4596; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.698 -> 10/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 90/100 -> MATCH to original_03
+
+Processing: modified_03_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.30; dimensions 1641x2298 vs 3283x4596; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.863 -> 13/15 points
+Rule 3 (Template): FIRED - Match score 0.991 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.991; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_03
+
+Processing: modified_03_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.63; dimensions 2462x3447 vs 3283x4596; template confirmed -> 13/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.978 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.995 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.995; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_03
+
+Processing: modified_03_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.13; dimensions 3283x4596 vs 3283x4596; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_03
+
+Processing: modified_04_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.96; dimensions 4160x6240 vs 4160x6240; template confirmed -> 15/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.997 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.998 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.998; no scale search needed -> 50/50 points
+Final Score: 100/100 -> MATCH to original_04
+
+Processing: modified_04_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.39; dimensions 4160x6240 vs 4160x6240; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.992 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_04
+
+Processing: modified_04_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.07; dimensions 1040x1560 vs 4160x6240; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.998 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_04
+
+Processing: modified_04_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.33; dimensions 2080x3120 vs 4160x6240; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.979 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.998 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.998; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_04
+
+Processing: modified_04_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.72; dimensions 3120x4680 vs 4160x6240; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.993 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 99/100 -> MATCH to original_04
+
+Processing: modified_04_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.15; dimensions 4160x6240 vs 4160x6240; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_04
+
+Processing: modified_05_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.95; dimensions 5062x3127 vs 5062x3127; template confirmed -> 15/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.578 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.996 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.996; no scale search needed -> 50/50 points
+Final Score: 85/100 -> MATCH to original_05
+
+Processing: modified_05_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.34; dimensions 5062x3127 vs 5062x3127; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.999 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_05
+
+Processing: modified_05_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.09; dimensions 1265x781 vs 5062x3127; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.702 -> 10/15 points
+Rule 3 (Template): FIRED - Match score 0.987 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.987; no scale search needed -> 50/50 points
+Final Score: 90/100 -> MATCH to original_05
+
+Processing: modified_05_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.32; dimensions 2531x1563 vs 5062x3127; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.932 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_05
+
+Processing: modified_05_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.65; dimensions 3796x2345 vs 5062x3127; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.995 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.986 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.986; no scale search needed -> 50/50 points
+Final Score: 99/100 -> MATCH to original_05
+
+Processing: modified_05_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.12; dimensions 5062x3127 vs 5062x3127; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_05
+
+Processing: modified_06_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.95; dimensions 6239x3510 vs 6239x3510; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.965 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 98/100 -> MATCH to original_06
+
+Processing: modified_06_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.36; dimensions 6239x3510 vs 6239x3510; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.981 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_06
+
+Processing: modified_06_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.07; dimensions 1559x877 vs 6239x3510; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.975 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_06
+
+Processing: modified_06_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.30; dimensions 3119x1755 vs 6239x3510; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.980 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_06
+
+Processing: modified_06_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.66; dimensions 4679x2632 vs 6239x3510; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.994 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 99/100 -> MATCH to original_06
+
+Processing: modified_06_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.13; dimensions 6239x3510 vs 6239x3510; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_06
+
+Processing: modified_07_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.98; dimensions 3570x2380 vs 3570x2380; template confirmed -> 15/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.992 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.992; no scale search needed -> 50/50 points
+Final Score: 85/100 -> MATCH to original_07
+
+Processing: modified_07_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.36; dimensions 3570x2380 vs 3570x2380; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.988 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_07
+
+Processing: modified_07_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.09; dimensions 892x595 vs 3570x2380; template confirmed -> 10/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.631 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 80/100 -> MATCH to original_07
+
+Processing: modified_07_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.33; dimensions 1785x1190 vs 3570x2380; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.818 -> 12/15 points
+Rule 3 (Template): FIRED - Match score 0.982 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.982; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_07
+
+Processing: modified_07_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.67; dimensions 2677x1785 vs 3570x2380; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.909 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.982 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.982; no scale search needed -> 50/50 points
+Final Score: 98/100 -> MATCH to original_07
+
+Processing: modified_07_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.18; dimensions 3570x2380 vs 3570x2380; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_07
+
+Processing: modified_08_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.98; dimensions 4000x6000 vs 4000x6000; template confirmed -> 15/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.994 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.994; no scale search needed -> 50/50 points
+Final Score: 85/100 -> MATCH to original_08
+
+Processing: modified_08_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.41; dimensions 4000x6000 vs 4000x6000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.961 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_08
+
+Processing: modified_08_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.10; dimensions 1000x1500 vs 4000x6000; template confirmed -> 10/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.522 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 80/100 -> MATCH to original_08
+
+Processing: modified_08_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.38; dimensions 2000x3000 vs 4000x6000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.800 -> 12/15 points
+Rule 3 (Template): FIRED - Match score 0.984 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.984; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_08
+
+Processing: modified_08_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.75; dimensions 3000x4500 vs 4000x6000; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.938 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.988 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.988; no scale search needed -> 50/50 points
+Final Score: 98/100 -> MATCH to original_08
+
+Processing: modified_08_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.13; dimensions 4000x6000 vs 4000x6000; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_08
+
+Processing: modified_09_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.96; dimensions 2000x3000 vs 2000x3000; template confirmed -> 15/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.445 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.994 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.994; no scale search needed -> 50/50 points
+Final Score: 85/100 -> MATCH to original_09
+
+Processing: modified_09_compressed.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.30; dimensions 2000x3000 vs 2000x3000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.994 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_09
+
+Processing: modified_09_crop_25pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.08; dimensions 500x750 vs 2000x3000; template confirmed -> 10/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.349 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 80/100 -> MATCH to original_09
+
+Processing: modified_09_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.30; dimensions 1000x1500 vs 2000x3000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.709 -> 10/15 points
+Rule 3 (Template): FIRED - Match score 0.987 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.987; no scale search needed -> 50/50 points
+Final Score: 92/100 -> MATCH to original_09
+
+Processing: modified_09_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.70; dimensions 1500x2250 vs 2000x3000; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.909 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.988 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.988; no scale search needed -> 50/50 points
+Final Score: 98/100 -> MATCH to original_09
+
+Processing: modified_09_format_png.png
+Rule 1 (Metadata): FIRED - JPEG to PNG; size ratio 0.12; dimensions 2000x3000 vs 2000x3000; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 1.000 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_09
+
+Processing: original_00__contrast__compress__q55__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.56; dimensions 3531x2433 vs 3531x2433; template confirmed -> 13/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.656 -> 10/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 93/100 -> MATCH to original_00
+
+Processing: original_00__crop_keep60__resized__q45__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.39; dimensions 3531x2433 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.761 -> 12/15 points
+Rule 3 (Template): NO MATCH - Match score 0.129 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.964; thumbnail scale 0.600; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 62/100 -> MATCH to original_00
+
+Processing: original_00__crop_keep70__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.19; dimensions 2471x1703 vs 3531x2433; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.906 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.994 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.994; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_00
+
+Processing: original_00__crop_offcenter_keep75__compress__q35__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.21; dimensions 2648x1824 vs 3531x2433; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.929 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.979 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.979; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_00
+
+Processing: original_00__resize_scale114__compress__q45__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.45; dimensions 3531x2433 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.881 -> 13/15 points
+Rule 3 (Template): NO MATCH - Match score 0.407 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.959; thumbnail scale 0.875; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 63/100 -> MATCH to original_00
+
+Processing: original_00__rotate6deg__compress__q35__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.38; dimensions 3531x2433 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.977 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.422 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.551; thumbnail scale 0.975; suspect inside original; threshold 0.85 -> 0/50 points
+Final Score: 14/100 -> REJECTED
+
+Processing: original_01__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.64; dimensions 4000x6000 vs 4000x6000; template confirmed -> 13/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.431 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 83/100 -> MATCH to original_01
+
+Processing: original_01__crop_keep50__resized__q75__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.81; dimensions 4000x6000 vs 4000x6000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.932 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.107 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.965; thumbnail scale 0.500; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_01
+
+Processing: original_01__crop_keep70__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.22; dimensions 2800x4200 vs 4000x6000; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.668 -> 10/15 points
+Rule 3 (Template): FIRED - Match score 0.977 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.977; no scale search needed -> 50/50 points
+Final Score: 91/100 -> MATCH to original_01
+
+Processing: original_01__crop_offcenter_keep65__compress__q35__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.17; dimensions 2600x3900 vs 4000x6000; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.986 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.964 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.964; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_01
+
+Processing: original_01__resize_scale75__compress__q30__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.20; dimensions 4000x6000 vs 4000x6000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.576 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.285 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.975; thumbnail scale 0.750; original inside suspect; threshold 0.85 -> 50/50 points
+Final Score: 50/100 -> MATCH to original_01
+
+Processing: original_01__rotate3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.61; dimensions 4000x6000 vs 4000x6000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.957 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.552 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.692; thumbnail scale 0.975; original inside suspect; threshold 0.85 -> 0/50 points
+Final Score: 14/100 -> REJECTED
+
+Processing: original_02__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.36; dimensions 4672x7008 vs 4672x7008; template confirmed -> 12/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.135 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 82/100 -> MATCH to original_02
+
+Processing: original_02__crop_keep60__resized__q60__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.43; dimensions 4672x7008 vs 4672x7008; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.972 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.077 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.944; thumbnail scale 0.600; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_02
+
+Processing: original_02__crop_keep70__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.21; dimensions 3270x4905 vs 4672x7008; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.946 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.945 -> 19/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.945; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_02
+
+Processing: original_02__crop_offcenter_keep55__compress__q45__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.15; dimensions 2569x3854 vs 4672x7008; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.939 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.982 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.982; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_02
+
+Processing: original_02__resize_scale85__compress__q30__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.31; dimensions 4672x7008 vs 4672x7008; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.559 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.249 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.991; thumbnail scale 0.850; original inside suspect; threshold 0.85 -> 50/50 points
+Final Score: 50/100 -> MATCH to original_02
+
+Processing: original_02__rotate3deg__compress__q35__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.41; dimensions 4672x7008 vs 4672x7008; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.990 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.578 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.633; thumbnail scale 0.975; suspect inside original; threshold 0.85 -> 0/50 points
+Final Score: 15/100 -> REJECTED
+
+Processing: original_03__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.59; dimensions 3283x4596 vs 3283x4596; template confirmed -> 13/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.195 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 83/100 -> MATCH to original_03
+
+Processing: original_03__crop_keep60__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.15; dimensions 1969x2757 vs 3283x4596; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.968 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.994 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.994; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_03
+
+Processing: original_03__crop_keep60__resized__q60__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.47; dimensions 3283x4596 vs 3283x4596; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.984 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.986; thumbnail scale 0.600; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 65/100 -> MATCH to original_03
+
+Processing: original_03__crop_offcenter_keep65__compress__q35__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.13; dimensions 2133x2987 vs 3283x4596; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.955 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.997 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.997; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_03
+
+Processing: original_03__resize_scale75__compress__q45__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.24; dimensions 3283x4596 vs 3283x4596; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.831 -> 12/15 points
+Rule 3 (Template): NO MATCH - Match score 0.192 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.978; thumbnail scale 0.750; original inside suspect; threshold 0.85 -> 50/50 points
+Final Score: 62/100 -> MATCH to original_03
+
+Processing: original_03__rotate-6deg__compress__q50__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.41; dimensions 3283x4596 vs 3283x4596; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.991 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.578 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.648; thumbnail scale 0.950; original inside suspect; threshold 0.85 -> 0/50 points
+Final Score: 15/100 -> REJECTED
+
+Processing: original_04__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.67; dimensions 4160x6240 vs 4160x6240; template confirmed -> 14/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.851 -> 13/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 97/100 -> MATCH to original_04
+
+Processing: original_04__crop_keep50__resized__q45__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.39; dimensions 4160x6240 vs 4160x6240; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.989 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.127 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.992; thumbnail scale 0.500; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 65/100 -> MATCH to original_04
+
+Processing: original_04__crop_keep60__bright__compress__q65__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.32; dimensions 2496x3744 vs 4160x6240; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.961 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.966 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.966; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_04
+
+Processing: original_04__crop_offcenter_keep75__compress__q35__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.24; dimensions 3120x4680 vs 4160x6240; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.999 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.988 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.988; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_04
+
+Processing: original_04__resize_scale85__compress__q60__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.45; dimensions 4160x6240 vs 4160x6240; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.992 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.208 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.988; thumbnail scale 0.850; original inside suspect; threshold 0.85 -> 50/50 points
+Final Score: 65/100 -> MATCH to original_04
+
+Processing: original_04__rotate-4deg__compress__q50__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.49; dimensions 4160x6240 vs 4160x6240; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.999 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.517 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.590; thumbnail scale 0.975; suspect inside original; threshold 0.85 -> 0/50 points
+Final Score: 15/100 -> REJECTED
+
+Processing: original_05__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.27; dimensions 5062x3127 vs 5062x3127; template confirmed -> 12/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.085 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 82/100 -> MATCH to original_05
+
+Processing: original_05__crop_keep50__resized__q60__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.54; dimensions 5062x3127 vs 5062x3127; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.963 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.040 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.970; thumbnail scale 0.500; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_05
+
+Processing: original_05__crop_keep70__bright__compress__q65__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.28; dimensions 3543x2188 vs 5062x3127; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.852 -> 13/15 points
+Rule 3 (Template): FIRED - Match score 0.998 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.998; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_05
+
+Processing: original_05__crop_offcenter_keep75__compress__q25__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.19; dimensions 3796x2345 vs 5062x3127; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.987 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.991 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.991; no scale search needed -> 50/50 points
+Final Score: 96/100 -> MATCH to original_05
+
+Processing: original_05__resize_scale114__compress__q60__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.54; dimensions 5062x3127 vs 5062x3127; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.999 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.286 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.973; thumbnail scale 0.875; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 65/100 -> MATCH to original_05
+
+Processing: original_05__rotate-3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.62; dimensions 5062x3127 vs 5062x3127; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.992 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.565 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.580; thumbnail scale 0.975; original inside suspect; threshold 0.85 -> 0/50 points
+Final Score: 15/100 -> REJECTED
+
+Processing: original_06__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.44; dimensions 6239x3510 vs 6239x3510; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.834 -> 12/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_06
+
+Processing: original_06__crop_keep50__resized__q45__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.30; dimensions 6239x3510 vs 6239x3510; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.981 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.169 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.986; thumbnail scale 0.500; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_06
+
+Processing: original_06__crop_keep70__bright__compress__q55__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.18; dimensions 4367x2457 vs 6239x3510; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.950 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.991 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.991; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_06
+
+Processing: original_06__crop_offcenter_keep75__compress__q25__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.14; dimensions 4679x2632 vs 6239x3510; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.985 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.998 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.998; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_06
+
+Processing: original_06__resize_scale85__compress__q45__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.33; dimensions 6239x3510 vs 6239x3510; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.869 -> 13/15 points
+Rule 3 (Template): NO MATCH - Match score 0.303 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.988; thumbnail scale 0.850; original inside suspect; threshold 0.85 -> 50/50 points
+Final Score: 63/100 -> MATCH to original_06
+
+Processing: original_06__rotate-6deg__compress__q35__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.31; dimensions 6239x3510 vs 6239x3510; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.969 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.436 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.545; thumbnail scale 0.975; suspect inside original; threshold 0.85 -> 0/50 points
+Final Score: 14/100 -> REJECTED
+
+Processing: original_07__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.58; dimensions 3570x2380 vs 3570x2380; template confirmed -> 13/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.696 -> 10/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 93/100 -> MATCH to original_07
+
+Processing: original_07__crop_keep60__bright__compress__q55__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.21; dimensions 2142x1428 vs 3570x2380; template confirmed -> 11/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.625 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.995 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.995; no scale search needed -> 50/50 points
+Final Score: 81/100 -> MATCH to original_07
+
+Processing: original_07__crop_keep60__resized__q60__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.48; dimensions 3570x2380 vs 3570x2380; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.913 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.256 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.962; thumbnail scale 0.600; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_07
+
+Processing: original_07__crop_offcenter_keep55__compress__q35__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.10; dimensions 1963x1309 vs 3570x2380; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.915 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.999 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.999; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_07
+
+Processing: original_07__resize_scale114__compress__q45__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.37; dimensions 3570x2380 vs 3570x2380; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.971 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.413 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.975; thumbnail scale 0.875; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_07
+
+Processing: original_07__rotate-3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.57; dimensions 3570x2380 vs 3570x2380; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.990 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.562 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.623; thumbnail scale 0.950; original inside suspect; threshold 0.85 -> 0/50 points
+Final Score: 15/100 -> REJECTED
+
+Processing: original_08__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.37; dimensions 4000x6000 vs 4000x6000; template confirmed -> 12/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.191 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 1.000 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 1.000; no scale search needed -> 50/50 points
+Final Score: 82/100 -> MATCH to original_08
+
+Processing: original_08__crop_keep60__bright__compress__q55__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.19; dimensions 2400x3600 vs 4000x6000; template confirmed -> 11/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.062 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.976 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.976; no scale search needed -> 50/50 points
+Final Score: 81/100 -> MATCH to original_08
+
+Processing: original_08__crop_keep60__resized__q45__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.28; dimensions 4000x6000 vs 4000x6000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.928 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.118 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.983; thumbnail scale 0.600; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_08
+
+Processing: original_08__crop_offcenter_keep65__compress__q35__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.18; dimensions 2600x3900 vs 4000x6000; template confirmed -> 11/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.915 -> 14/15 points
+Rule 3 (Template): FIRED - Match score 0.976 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.976; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_08
+
+Processing: original_08__resize_scale114__compress__q30__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.39; dimensions 4000x6000 vs 4000x6000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.939 -> 14/15 points
+Rule 3 (Template): NO MATCH - Match score 0.484 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.969; thumbnail scale 0.875; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 64/100 -> MATCH to original_08
+
+Processing: original_08__rotate3deg__compress__q50__v4.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.54; dimensions 4000x6000 vs 4000x6000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.986 -> 15/15 points
+Rule 3 (Template): NO MATCH - Match score 0.649 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Match score 0.703; thumbnail scale 0.975; original inside suspect; threshold 0.85 -> 0/50 points
+Final Score: 15/100 -> REJECTED
+
+Processing: original_09__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.37; dimensions 2000x3000 vs 2000x3000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.788 -> 12/15 points
+Rule 3 (Template): FIRED - Match score 0.995 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.995; no scale search needed -> 50/50 points
+Final Score: 94/100 -> MATCH to original_09
+
+Processing: original_09__crop_keep50__resized__q75__v6.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.53; dimensions 2000x3000 vs 2000x3000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.670 -> 10/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.990; thumbnail scale 0.500; suspect inside original; threshold 0.85 -> 50/50 points
+Final Score: 60/100 -> MATCH to original_09
+
+Processing: original_09__crop_keep60__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.10; dimensions 1200x1800 vs 2000x3000; template confirmed -> 10/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.281 -> 0/15 points
+Rule 3 (Template): FIRED - Match score 0.984 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.984; no scale search needed -> 50/50 points
+Final Score: 80/100 -> MATCH to original_09
+
+Processing: original_09__crop_offcenter_keep55__compress__q25__v1.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.05; dimensions 1100x1650 vs 2000x3000; template confirmed -> 10/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.718 -> 11/15 points
+Rule 3 (Template): FIRED - Match score 0.973 -> 20/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.973; no scale search needed -> 50/50 points
+Final Score: 91/100 -> MATCH to original_09
+
+Processing: original_09__resize_scale75__compress__q30__v3.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.14; dimensions 2000x3000 vs 2000x3000; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.573 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.605 -> 0/20 points
+Rule 4 (Multiscale): FIRED - Match score 0.992; thumbnail scale 0.750; original inside suspect; threshold 0.85 -> 50/50 points
+Final Score: 50/100 -> MATCH to original_09
+
+Processing: original_09__rotate-3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): FIRED - JPEG to JPEG; size ratio 0.54; dimensions 2000x3000 vs 2000x3000; template confirmed -> 12/15 points
+Rule 2 (Histogram): FIRED - Correlation 0.994 -> 15/15 points
+Rule 3 (Template): FIRED - Match score 0.868 -> 18/20 points
+Rule 4 (Multiscale): FIRED - Same-scale match 0.868; no scale search needed -> 50/50 points
+Final Score: 95/100 -> MATCH to original_09
+
+Processing: random_05.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.13; dimensions 3000x2000 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_06.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.13; dimensions 2500x3500 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_07.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.18; dimensions 4000x3000 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_08.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.07; dimensions 3200x2400 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.003 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_09.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.16; dimensions 2800x4200 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.215 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_10.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.16; dimensions 3500x2500 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_11.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.09; dimensions 2000x3000 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.009 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_12.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.20; dimensions 4500x3000 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_13.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.12; dimensions 3000x4500 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_14.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.10; dimensions 2400x3600 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.028 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.000 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_noise_00.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.03; dimensions 256x256 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.108 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_noise_01.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.03; dimensions 256x256 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.109 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_noise_02.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.03; dimensions 256x256 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.119 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_noise_03.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.03; dimensions 256x256 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.116 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
+
+Processing: random_noise_04.jpg
+Rule 1 (Metadata): NO MATCH - JPEG to JPEG; size ratio 0.03; dimensions 256x256 vs 3531x2433; dimensions, header, or template check failed -> 0/15 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.000 -> 0/15 points
+Rule 3 (Template): NO MATCH - Match score 0.109 -> 0/20 points
+Rule 4 (Multiscale): NO MATCH - Insufficient color support for scale search (below 0.30) -> 0/50 points
+Final Score: 0/100 -> REJECTED
